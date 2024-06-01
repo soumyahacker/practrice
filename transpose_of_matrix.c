@@ -120,7 +120,7 @@ int main()
     }
     else if (choice == 2)
     {
-        // Input matrix 2 for addition
+        // Input t bematrix 2 for addition
         printf("Enter the number of rows for the second matrix (2 or 3): ");
         scanf("%d", &rows2);
         printf("Enter the number of columns for the second matrix (2 or 3): ");
